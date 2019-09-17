@@ -1,9 +1,10 @@
 #header {
+
 box-shadow: 15px 10px 6px -6px;
-height: 20px;
 text-align: left;
 border-radius: 0px;
 background-color: rgb(66, 63, 63);
 color:white;
 text-decoration: none;
+text-anchor: middle;
 }
