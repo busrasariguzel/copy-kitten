@@ -3,8 +3,10 @@
     background-color: blue;
     border: none;
     padding: 90px;
-    box-shadow: 50px 20px 6px -6px darkred(97, 10, 10);
+    box-shadow: 30px 15px 6px -6px darkred(97, 10, 10);
     margin: 20px 20px 20px;
     display: inline-block;
     box-sizing: border-box;
+    border-radius: 10px;
 }
+
