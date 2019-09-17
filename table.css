@@ -11,7 +11,8 @@ height: 50px;
 letter-spacing: 5px;
 
 border: 0.5px solid black;
-
+border-top: none;
+text-align: center;
 
 
 
