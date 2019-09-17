@@ -2,7 +2,8 @@
 box-shadow: 15px 10px 6px -6px darkred(97, 10, 10);
 height: 20px;
 text-align: left;
-border-radius: 11px;
+border-radius: 0px;
 background-color: rgb(66, 63, 63);
 color:white;
+text-decoration: none;
 }

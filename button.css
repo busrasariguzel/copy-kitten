@@ -1,6 +1,6 @@
 #button {
     color: white;
-    background-color: blue;
+    background-color: rgb(26, 132, 197);
     border: none;
     padding: 15px;
     box-shadow: 15px 10px 6px -6px darkred(97, 10, 10);
@@ -10,6 +10,7 @@
     border-radius: 11px;
     height: 40px;
     text-emphasis: none;
-    text-decoration: none
+    text-decoration: none;
+    box-shadow: 20px 20px;
 }
 
